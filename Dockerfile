@@ -8,4 +8,4 @@ WORKDIR /usr/src/app
 COPY . .
 
 # Command to run the JavaScript file
-CMD ["node", "app.js"]
+CMD ["node", "server.js"]
